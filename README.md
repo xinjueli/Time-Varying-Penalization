@@ -38,10 +38,10 @@ Example: Time series
          5) Condition number of (X'X)
 
 ```
-![Picture1](Var110sim100Lambda.PNG)
-![Picture1](Var110sim100Q.PNG)
-![Picture1](Var110sim100ResNorm.PNG)
-![Picture1](Var110sim100BetaNorm.PNG)
+![Picture1](Lambda.PNG)
+![Picture1](Q.PNG)
+![Picture1](ResNorm.PNG)
+![Picture1](BetaNorm.PNG)
 ![Picture1](X'X.png)
 ```R
 
