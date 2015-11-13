@@ -2,7 +2,7 @@
 ## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **TVP**
 ```yaml
 
-Name of QuantLet: LCPvariance
+Name of QuantLet: LCPdesign
 
 Published in : - Unpublished; Theoritically description of Time Varying Penalication method.
 
