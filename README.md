@@ -4,7 +4,7 @@
 
 Name of QuantLet: LCPdesign
 
-Published in : - 'Unpublished; Theoritically description of Time Varying 
+Published in : 'Unpublished; Theoritically description of Time Varying 
 Penalization method.'
 
 Description : 'Performs LASSO regression in a moving window by using BIC criterion to 
@@ -31,12 +31,12 @@ Input:   n.obs   - Number of observations to simulate
          seed1   - Seed to simulate design matrix X
          seed2   - Seed to simulate error terms
 
-Example: Time series
-         1) Lambda
-         2) Cardinality of q
-         3) L2-norm of the residuals
-         4) L1-norm of the beta
-         5) Condition number of (X'X)
+Example: 
+-Lambda
+-Cardinality of q
+-L2-norm of the residuals
+-L1-norm of the beta
+-Condition number of (X'X)
 
 ```
 ![Picture1](lambda.PNG)
